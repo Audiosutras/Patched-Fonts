@@ -6,5 +6,7 @@ You can install these fonts directory from nerd fonts or clone this repo as star
 
 ```bash
 cd ~/.local/share/
-git clone
+git clone https://github.com/Audiosutras/Patched-Fonts fonts
 ```
+
+See my [alacritty toml config](https://github.com/Audiosutras/My-Alacritty-Toml-Config) for using these fonts (and their icons!) with alacritty (and secondarily neovim).
